@@ -2,4 +2,4 @@
 </br>
 CREATED ON ECLIPSE WITH JAVA USING SIMPLE OOP STYLE OF PROGRAMMING.</br>
 COMPLETED IN INSPIRATION OF Jaryt23's TUTORIAL WITH OWN MODIFICATION AND UNDERSTANDING.</br>
-![Alt text](http://master/Screenshot.jpg)
+![alt tag](https://raw.github.com/bagelSeed/Snake-Game/master/Screenshot.png)
